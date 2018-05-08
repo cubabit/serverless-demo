@@ -1,0 +1,8 @@
+{
+  "name": "serverless-demo",
+  "regions": ["eu-west-1"],
+  "lambda": {
+    "memory": 128
+  },
+  "profile": "cubabit"
+}
